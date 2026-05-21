@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Category,Sub_Category,Region,City,Customer_Segment,Unit_Price,Quantity,Discount,Sales,Profit,Month,Month_Num
+ORD-1000,2023-01-01 00:00:00.000000,Clothing,Trousers,South,Bangalore,Consumer,1559.63,4,0.0,6238.52,1499.28,January,1
+ORD-1001,2023-01-01 17:30:25.250501,Sports,Apparel,West,Ahmedabad,Consumer,2150.81,2,0.05,4086.54,363.12,January,1
+ORD-1002,2023-01-02 11:00:50.501002,Office Supplies,Envelopes,West,Surat,Corporate,717.28,3,0.1,1936.66,487.52,January,1
+ORD-1003,2023-01-03 04:31:15.751503,Sports,Fitness,North,Delhi,Home Office,2132.54,1,0.0,2132.54,380.39,January,1
+ORD-1004,2023-01-03 22:01:41.002004,Sports,Balls,South,Kochi,Home Office,2276.86,1,0.15,1935.33,309.1,January,1
+ORD-1005,2023-01-04 15:32:06.252505,Furniture,Lamps,North,Chandigarh,Corporate,4425.26,4,0.0,17701.04,5619.44,January,1
+ORD-1006,2023-01-05 09:02:31.503006,Office Supplies,Binders,East,Bhubaneswar,Home Office,523.95,1,0.0,523.95,106.99,January,1
+ORD-1007,2023-01-06 02:32:56.753507,Office Supplies,Pens,East,Kolkata,Consumer,436.36,4,0.0,1745.44,184.43,January,1
+ORD-1008,2023-01-06 20:03:22.004008,Office Supplies,Paper,North,Lucknow,Home Office,343.92,4,0.0,1375.68,417.14,January,1
+ORD-1009,2023-01-07 13:33:47.254509,Sports,Balls,West,Mumbai,Consumer,2648.28,4,0.05,10063.46,934.52,January,1
+ORD-1010,2023-01-08 07:04:12.505010,Clothing,Trousers,West,Surat,Corporate,2102.78,1,0.05,1997.64,551.79,January,1
+ORD-1011,2023-01-09 00:34:37.755511,Office Supplies,Envelopes,North,Lucknow,Consumer,671.69,4,0.0,2686.76,776.35,January,1
+ORD-1012,2023-01-09 18:05:03.006012,Sports,Equipment,North,Chandigarh,Home Office,2312.39,1,0.05,2196.77,384.88,January,1
+ORD-1013,2023-01-10 11:35:28.256513,Furniture,Lamps,East,Patna,Home Office,5278.71,4,0.0,21114.84,6391.31,January,1
+ORD-1014,2023-01-11 05:05:53.507014,Clothing,Trousers,West,Pune,Home Office,2454.0,5,0.1,11043.0,2420.94,January,1
+ORD-1015,2023-01-11 22:36:18.757515,Furniture,Shelves,North,Lucknow,Corporate,6114.49,4,0.15,20789.27,4263.66,January,1
+ORD-1016,2023-01-12 16:06:44.008016,Clothing,Jackets,East,Patna,Corporate,1762.53,2,0.0,3525.06,325.22,January,1
+ORD-1017,2023-01-13 09:37:09.258517,Sports,Apparel,West,Ahmedabad,Home Office,1261.54,4,0.05,4793.85,758.9,January,1
+ORD-1018,2023-01-14 03:07:34.509018,Electronics,Phones,South,Kochi,Consumer,8075.98,3,0.0,24227.94,8028.48,January,1
+ORD-1019,2023-01-14 20:37:59.759519,Clothing,Trousers,East,Guwahati,Corporate,1584.35,4,0.0,6337.4,1177.44,January,1
+ORD-1020,2023-01-15 14:08:25.010020,Furniture,Chairs,West,Mumbai,Home Office,5392.94,2,0.0,10785.88,2454.96,January,1
+ORD-1021,2023-01-16 07:38:50.260521,Sports,Balls,West,Mumbai,Home Office,2592.41,2,0.1,4666.34,1043.61,January,1
+ORD-1022,2023-01-17 01:09:15.511022,Clothing,Shirts,East,Bhubaneswar,Corporate,1860.48,1,0.05,1767.46,423.16,January,1
+ORD-1023,2023-01-17 18:39:40.761523,Electronics,Phones,South,Kochi,Corporate,10635.89,5,0.0,53179.45,5134.97,January,1
+ORD-1024,2023-01-18 12:10:06.012024,Electronics,Laptops,East,Bhubaneswar,Corporate,12142.88,4,0.1,43714.37,7771.87,January,1
+ORD-1025,2023-01-19 05:40:31.262525,Office Supplies,Paper,West,Mumbai,Consumer,787.79,1,0.05,748.4,205.99,January,1
+ORD-1026,2023-01-19 23:10:56.513026,Office Supplies,Pens,North,Chandigarh,Consumer,730.87,5,0.1,3288.92,441.21,January,1
+ORD-1027,2023-01-20 16:41:21.763527,Furniture,Tables,North,Delhi,Home Office,8733.14,4,0.05,33185.93,4478.98,January,1
+ORD-1028,2023-01-21 10:11:47.014028,Clothing,Shoes,East,Guwahati,Corporate,932.82,3,0.05,2658.54,219.93,January,1
+ORD-1029,2023-01-22 03:42:12.264529,Clothing,Jackets,West,Ahmedabad,Consumer,1252.4,4,0.0,5009.6,992.5,January,1
+ORD-1030,2023-01-22 21:12:37.515030,Office Supplies,Envelopes,North,Jaipur,Corporate,304.54,2,0.0,609.08,193.89,January,1
+ORD-1031,2023-01-23 14:43:02.765531,Clothing,Trousers,West,Pune,Home Office,2065.45,2,0.2,3304.72,310.69,January,1
+ORD-1032,2023-01-24 08:13:28.016032,Clothing,Shoes,East,Bhubaneswar,Consumer,2516.45,3,0.0,7549.35,993.51,January,1
+ORD-1033,2023-01-25 01:43:53.266533,Electronics,Laptops,North,Jaipur,Consumer,7137.43,1,0.2,5709.94,934.85,January,1
+ORD-1034,2023-01-25 19:14:18.517034,Office Supplies,Pens,West,Surat,Consumer,856.22,5,0.05,4067.04,1128.87,January,1
+ORD-1035,2023-01-26 12:44:43.767535,Sports,Equipment,North,Delhi,Home Office,1344.64,4,0.0,5378.56,1360.62,January,1
+ORD-1036,2023-01-27 06:15:09.018036,Office Supplies,Binders,East,Bhubaneswar,Corporate,860.66,2,0.0,1721.32,331.02,January,1
+ORD-1037,2023-01-27 23:45:34.268537,Sports,Fitness,West,Pune,Consumer,2043.89,1,0.0,2043.89,582.4,January,1
+ORD-1038,2023-01-28 17:15:59.519038,Electronics,Accessories,North,Jaipur,Home Office,5773.64,3,0.15,14722.78,3601.2,January,1
+ORD-1039,2023-01-29 10:46:24.769539,Furniture,Chairs,East,Patna,Corporate,5915.23,2,0.0,11830.46,3808.59,January,1
+ORD-1040,2023-01-30 04:16:50.020040,Clothing,Shoes,North,Chandigarh,Home Office,1362.2,3,0.0,4086.6,1229.52,January,1
+ORD-1041,2023-01-30 21:47:15.270541,Electronics,Accessories,North,Lucknow,Corporate,7534.78,4,0.0,30139.12,4468.42,January,1
+ORD-1042,2023-01-31 15:17:40.521042,Clothing,Shoes,South,Kochi,Home Office,1453.12,5,0.0,7265.6,1113.73,January,1
+ORD-1043,2023-02-01 08:48:05.771543,Furniture,Shelves,South,Kochi,Corporate,7818.16,2,0.0,15636.32,1780.14,February,2
+ORD-1044,2023-02-02 02:18:31.022044,Furniture,Lamps,East,Kolkata,Consumer,6234.97,2,0.0,12469.94,2132.12,February,2
+ORD-1045,2023-02-02 19:48:56.272545,Electronics,Phones,South,Chennai,Corporate,7788.55,4,0.1,28038.78,9810.12,February,2
+ORD-1046,2023-02-03 13:19:21.523046,Furniture,Lamps,East,Patna,Home Office,6662.0,1,0.0,6662.0,1262.8,February,2
+ORD-1047,2023-02-04 06:49:46.773547,Sports,Fitness,South,Bangalore,Home Office,2918.76,5,0.0,14593.8,2036.3,February,2
+ORD-1048,2023-02-05 00:20:12.024048,Furniture,Shelves,North,Chandigarh,Corporate,4635.74,2,0.0,9271.48,2650.44,February,2
+ORD-1049,2023-02-05 17:50:37.274549,Clothing,Trousers,East,Kolkata,Consumer,1644.39,5,0.0,8221.95,1862.0,February,2
+ORD-1050,2023-02-06 11:21:02.525050,Clothing,Trousers,East,Guwahati,Consumer,1119.39,2,0.2,1791.02,215.63,February,2
+ORD-1051,2023-02-07 04:51:27.775551,Clothing,Jackets,North,Chandigarh,Corporate,1226.07,5,0.05,5823.83,1064.52,February,2
+ORD-1052,2023-02-07 22:21:53.026052,Clothing,Jackets,East,Kolkata,Corporate,2126.01,3,0.0,6378.03,1223.99,February,2
+ORD-1053,2023-02-08 15:52:18.276553,Sports,Apparel,East,Kolkata,Home Office,1635.45,2,0.05,3107.36,881.04,February,2
+ORD-1054,2023-02-09 09:22:43.527054,Office Supplies,Envelopes,South,Hyderabad,Consumer,615.1,5,0.0,3075.5,263.21,February,2
+ORD-1055,2023-02-10 02:53:08.777555,Electronics,Accessories,East,Kolkata,Corporate,11606.84,1,0.0,11606.84,1771.61,February,2
+ORD-1056,2023-02-10 20:23:34.028056,Clothing,Trousers,West,Pune,Consumer,1092.38,3,0.2,2621.71,576.12,February,2
+ORD-1057,2023-02-11 13:53:59.278557,Furniture,Tables,North,Chandigarh,Corporate,6403.87,3,0.1,17290.45,2638.33,February,2
+ORD-1058,2023-02-12 07:24:24.529058,Clothing,Shirts,South,Hyderabad,Corporate,1361.81,1,0.2,1089.45,272.01,February,2
+ORD-1059,2023-02-13 00:54:49.779559,Furniture,Tables,South,Chennai,Consumer,8777.56,5,0.0,43887.8,9221.01,February,2
+ORD-1060,2023-02-13 18:25:15.030060,Furniture,Lamps,West,Surat,Corporate,5901.27,4,0.05,22424.83,3984.03,February,2
+ORD-1061,2023-02-14 11:55:40.280561,Clothing,Trousers,North,Chandigarh,Corporate,2350.79,1,0.0,2350.79,790.54,February,2
+ORD-1062,2023-02-15 05:26:05.531062,Sports,Apparel,North,Chandigarh,Home Office,2520.54,5,0.0,12602.7,3159.28,February,2
+ORD-1063,2023-02-15 22:56:30.781563,Furniture,Tables,South,Bangalore,Corporate,3260.48,1,0.1,2934.43,337.71,February,2
+ORD-1064,2023-02-16 16:26:56.032064,Furniture,Chairs,East,Kolkata,Corporate,6798.91,1,0.0,6798.91,1572.08,February,2
+ORD-1065,2023-02-17 09:57:21.282565,Clothing,Trousers,South,Chennai,Corporate,2612.53,2,0.1,4702.55,1367.49,February,2
+ORD-1066,2023-02-18 03:27:46.533066,Furniture,Shelves,North,Lucknow,Home Office,6609.67,5,0.1,29743.52,8069.19,February,2
+ORD-1067,2023-02-18 20:58:11.783567,Furniture,Shelves,West,Mumbai,Consumer,7915.13,4,0.0,31660.52,4003.92,February,2
+ORD-1068,2023-02-19 14:28:37.034068,Clothing,Jackets,South,Hyderabad,Home Office,2491.57,2,0.05,4733.98,1621.64,February,2
+ORD-1069,2023-02-20 07:59:02.284569,Clothing,Trousers,North,Chandigarh,Home Office,1310.54,1,0.05,1245.01,250.47,February,2
+ORD-1070,2023-02-21 01:29:27.535070,Electronics,Accessories,South,Chennai,Consumer,6835.63,1,0.0,6835.63,840.35,February,2
+ORD-1071,2023-02-21 18:59:52.785571,Sports,Balls,East,Guwahati,Home Office,2666.35,1,0.1,2399.72,308.73,February,2
+ORD-1072,2023-02-22 12:30:18.036072,Sports,Fitness,South,Bangalore,Consumer,2186.47,5,0.05,10385.73,1106.32,February,2
+ORD-1073,2023-02-23 06:00:43.286573,Furniture,Chairs,South,Chennai,Home Office,8039.17,5,0.0,40195.85,11936.15,February,2
+ORD-1074,2023-02-23 23:31:08.537074,Sports,Equipment,North,Jaipur,Consumer,3360.06,2,0.05,6384.11,721.07,February,2
+ORD-1075,2023-02-24 17:01:33.787575,Furniture,Tables,North,Delhi,Corporate,5120.53,4,0.2,16385.7,1864.43,February,2
+ORD-1076,2023-02-25 10:31:59.038076,Electronics,Laptops,North,Chandigarh,Home Office,7073.96,2,0.0,14147.92,4380.58,February,2
+ORD-1077,2023-02-26 04:02:24.288577,Clothing,Jackets,South,Chennai,Home Office,2304.95,3,0.1,6223.36,1076.91,February,2
+ORD-1078,2023-02-26 21:32:49.539078,Clothing,Shoes,East,Kolkata,Home Office,1394.65,1,0.0,1394.65,123.19,February,2
+ORD-1079,2023-02-27 15:03:14.789579,Clothing,Jackets,West,Mumbai,Home Office,2380.71,1,0.1,2142.64,201.43,February,2
+ORD-1080,2023-02-28 08:33:40.040080,Sports,Balls,West,Mumbai,Corporate,2216.97,1,0.1,1995.27,236.21,February,2
+ORD-1081,2023-03-01 02:04:05.290581,Electronics,Cameras,North,Chandigarh,Home Office,11208.48,2,0.0,22416.96,3084.94,March,3
+ORD-1082,2023-03-01 19:34:30.541082,Sports,Balls,North,Chandigarh,Corporate,1429.28,2,0.0,2858.56,742.05,March,3
+ORD-1083,2023-03-02 13:04:55.791583,Sports,Fitness,South,Kochi,Corporate,2697.26,1,0.1,2427.53,297.32,March,3
+ORD-1084,2023-03-03 06:35:21.042084,Electronics,Accessories,West,Ahmedabad,Corporate,9136.97,2,0.0,18273.94,2048.44,March,3
+ORD-1085,2023-03-04 00:05:46.292585,Electronics,Phones,North,Delhi,Corporate,10431.44,5,0.1,46941.48,13447.52,March,3
+ORD-1086,2023-03-04 17:36:11.543086,Electronics,Laptops,East,Bhubaneswar,Consumer,6412.94,5,0.0,32064.7,8374.82,March,3
+ORD-1087,2023-03-05 11:06:36.793587,Electronics,Laptops,East,Bhubaneswar,Consumer,11873.99,2,0.15,20185.78,3987.45,March,3
+ORD-1088,2023-03-06 04:37:02.044088,Clothing,Jackets,North,Delhi,Home Office,2453.03,1,0.1,2207.73,504.05,March,3
+ORD-1089,2023-03-06 22:07:27.294589,Office Supplies,Pens,North,Lucknow,Consumer,430.04,2,0.15,731.07,120.07,March,3
+ORD-1090,2023-03-07 15:37:52.545090,Office Supplies,Paper,West,Mumbai,Consumer,357.43,2,0.0,714.86,150.32,March,3
+ORD-1091,2023-03-08 09:08:17.795591,Electronics,Laptops,West,Ahmedabad,Home Office,5026.93,2,0.05,9551.17,2070.71,March,3
+ORD-1092,2023-03-09 02:38:43.046092,Office Supplies,Binders,South,Chennai,Home Office,685.18,3,0.05,1952.76,360.39,March,3
+ORD-1093,2023-03-09 20:09:08.296593,Office Supplies,Binders,West,Ahmedabad,Home Office,664.26,5,0.0,3321.3,1078.67,March,3
+ORD-1094,2023-03-10 13:39:33.547094,Electronics,Cameras,East,Guwahati,Consumer,10048.3,4,0.0,40193.2,3389.76,March,3
+ORD-1095,2023-03-11 07:09:58.797595,Office Supplies,Paper,East,Bhubaneswar,Consumer,439.17,4,0.0,1756.68,511.52,March,3
+ORD-1096,2023-03-12 00:40:24.048096,Sports,Apparel,North,Jaipur,Home Office,2138.17,3,0.1,5773.06,655.72,March,3
+ORD-1097,2023-03-12 18:10:49.298597,Furniture,Shelves,West,Mumbai,Corporate,6566.86,2,0.05,12477.03,3684.94,March,3
+ORD-1098,2023-03-13 11:41:14.549098,Furniture,Chairs,South,Bangalore,Home Office,5980.6,3,0.0,17941.8,4419.0,March,3
+ORD-1099,2023-03-14 05:11:39.799599,Electronics,Laptops,East,Kolkata,Corporate,14282.74,3,0.05,40705.81,12524.57,March,3
+ORD-1100,2023-03-14 22:42:05.050100,Clothing,Trousers,East,Patna,Corporate,1145.59,1,0.0,1145.59,121.81,March,3
+ORD-1101,2023-03-15 16:12:30.300601,Electronics,Cameras,South,Chennai,Home Office,11473.39,5,0.0,57366.95,13247.45,March,3
+ORD-1102,2023-03-16 09:42:55.551102,Clothing,Trousers,South,Bangalore,Home Office,1627.77,4,0.2,5208.86,1121.43,March,3
+ORD-1103,2023-03-17 03:13:20.801603,Furniture,Chairs,East,Kolkata,Home Office,5569.2,2,0.15,9467.64,2562.63,March,3
+ORD-1104,2023-03-17 20:43:46.052104,Electronics,Accessories,East,Bhubaneswar,Consumer,11688.94,4,0.05,44417.97,9961.11,March,3
+ORD-1105,2023-03-18 14:14:11.302605,Sports,Equipment,South,Bangalore,Corporate,2861.85,4,0.0,11447.4,2587.09,March,3
+ORD-1106,2023-03-19 07:44:36.553106,Office Supplies,Envelopes,East,Guwahati,Consumer,894.75,5,0.1,4026.38,789.13,March,3
+ORD-1107,2023-03-20 01:15:01.803607,Clothing,Trousers,North,Chandigarh,Consumer,1131.11,4,0.0,4524.44,739.23,March,3
+ORD-1108,2023-03-20 18:45:27.054108,Office Supplies,Paper,North,Chandigarh,Home Office,362.47,4,0.0,1449.88,304.78,March,3
+ORD-1109,2023-03-21 12:15:52.304609,Office Supplies,Envelopes,South,Chennai,Consumer,734.6,3,0.0,2203.8,246.81,March,3
+ORD-1110,2023-03-22 05:46:17.555110,Electronics,Laptops,West,Surat,Home Office,10352.51,5,0.05,49174.42,16700.06,March,3
+ORD-1111,2023-03-22 23:16:42.805611,Office Supplies,Envelopes,South,Chennai,Corporate,464.5,1,0.05,441.28,120.42,March,3
+ORD-1112,2023-03-23 16:47:08.056112,Sports,Balls,South,Kochi,Home Office,1390.61,2,0.0,2781.22,937.73,March,3
+ORD-1113,2023-03-24 10:17:33.306613,Office Supplies,Binders,West,Pune,Consumer,351.39,4,0.05,1335.28,188.56,March,3
+ORD-1114,2023-03-25 03:47:58.557114,Electronics,Phones,West,Ahmedabad,Consumer,13384.23,2,0.15,22753.19,7222.36,March,3
+ORD-1115,2023-03-25 21:18:23.807615,Sports,Balls,West,Mumbai,Home Office,1660.48,1,0.0,1660.48,495.44,March,3
+ORD-1116,2023-03-26 14:48:49.058116,Furniture,Chairs,North,Lucknow,Home Office,4940.23,2,0.1,8892.41,2337.2,March,3
+ORD-1117,2023-03-27 08:19:14.308617,Office Supplies,Paper,East,Kolkata,Consumer,435.99,1,0.15,370.59,92.19,March,3
+ORD-1118,2023-03-28 01:49:39.559118,Electronics,Accessories,North,Jaipur,Corporate,8207.96,3,0.0,24623.88,4074.47,March,3
+ORD-1119,2023-03-28 19:20:04.809619,Furniture,Shelves,East,Patna,Corporate,3416.54,4,0.0,13666.16,4105.74,March,3
+ORD-1120,2023-03-29 12:50:30.060120,Furniture,Lamps,North,Chandigarh,Home Office,6114.36,1,0.05,5808.64,1251.23,March,3
+ORD-1121,2023-03-30 06:20:55.310621,Clothing,Trousers,East,Kolkata,Corporate,1021.7,2,0.05,1941.23,192.45,March,3
+ORD-1122,2023-03-30 23:51:20.561122,Sports,Apparel,North,Delhi,Consumer,3120.86,4,0.1,11235.1,1847.87,March,3
+ORD-1123,2023-03-31 17:21:45.811623,Office Supplies,Binders,West,Ahmedabad,Home Office,440.23,3,0.0,1320.69,439.17,March,3
+ORD-1124,2023-04-01 10:52:11.062124,Electronics,Laptops,South,Kochi,Consumer,9984.11,4,0.2,31949.15,9894.13,April,4
+ORD-1125,2023-04-02 04:22:36.312625,Clothing,Shoes,North,Lucknow,Consumer,2484.14,1,0.0,2484.14,857.31,April,4
+ORD-1126,2023-04-02 21:53:01.563126,Sports,Balls,East,Guwahati,Corporate,2762.11,3,0.0,8286.33,2067.92,April,4
+ORD-1127,2023-04-03 15:23:26.813627,Clothing,Shirts,West,Surat,Home Office,1859.32,2,0.05,3532.71,518.7,April,4
+ORD-1128,2023-04-04 08:53:52.064128,Sports,Equipment,North,Delhi,Home Office,1978.4,3,0.0,5935.2,735.73,April,4
+ORD-1129,2023-04-05 02:24:17.314629,Sports,Fitness,North,Lucknow,Corporate,1999.2,3,0.0,5997.6,782.49,April,4
+ORD-1130,2023-04-05 19:54:42.565130,Office Supplies,Envelopes,West,Ahmedabad,Consumer,701.69,5,0.0,3508.45,299.43,April,4
+ORD-1131,2023-04-06 13:25:07.815631,Sports,Equipment,North,Jaipur,Consumer,3585.93,3,0.0,10757.79,1995.4,April,4
+ORD-1132,2023-04-07 06:55:33.066132,Clothing,Trousers,South,Hyderabad,Consumer,2091.31,3,0.0,6273.93,826.19,April,4
+ORD-1133,2023-04-08 00:25:58.316633,Sports,Balls,North,Chandigarh,Consumer,2538.68,4,0.2,8123.78,1552.84,April,4
+ORD-1134,2023-04-08 17:56:23.567134,Office Supplies,Envelopes,South,Chennai,Home Office,738.39,2,0.0,1476.78,490.95,April,4
+ORD-1135,2023-04-09 11:26:48.817635,Office Supplies,Binders,South,Hyderabad,Home Office,579.12,4,0.1,2084.83,409.14,April,4
+ORD-1136,2023-04-10 04:57:14.068136,Clothing,Shirts,West,Ahmedabad,Corporate,1008.26,4,0.1,3629.74,1150.83,April,4
+ORD-1137,2023-04-10 22:27:39.318637,Furniture,Tables,North,Jaipur,Corporate,6373.78,1,0.15,5417.71,1319.14,April,4
+ORD-1138,2023-04-11 15:58:04.569138,Furniture,Lamps,West,Pune,Home Office,8745.75,4,0.0,34983.0,5132.9,April,4
+ORD-1139,2023-04-12 09:28:29.819639,Sports,Apparel,North,Chandigarh,Home Office,1620.73,5,0.15,6888.1,1212.86,April,4
+ORD-1140,2023-04-13 02:58:55.070140,Electronics,Accessories,North,Delhi,Consumer,11424.05,5,0.05,54264.24,5570.67,April,4
+ORD-1141,2023-04-13 20:29:20.320641,Sports,Balls,East,Guwahati,Consumer,1682.24,1,0.05,1598.13,271.74,April,4
+ORD-1142,2023-04-14 13:59:45.571142,Clothing,Jackets,North,Delhi,Corporate,1864.49,2,0.05,3542.53,931.46,April,4
+ORD-1143,2023-04-15 07:30:10.821643,Clothing,Jackets,West,Pune,Home Office,1074.02,2,0.1,1933.24,192.3,April,4
+ORD-1144,2023-04-16 01:00:36.072144,Clothing,Trousers,South,Kochi,Corporate,1710.67,4,0.0,6842.68,926.9,April,4
+ORD-1145,2023-04-16 18:31:01.322645,Clothing,Jackets,North,Lucknow,Home Office,2261.09,4,0.1,8139.92,1489.52,April,4
+ORD-1146,2023-04-17 12:01:26.573146,Clothing,Jackets,East,Guwahati,Consumer,1525.63,4,0.05,5797.39,2000.99,April,4
+ORD-1147,2023-04-18 05:31:51.823647,Office Supplies,Paper,West,Ahmedabad,Corporate,698.95,2,0.1,1258.11,367.26,April,4
+ORD-1148,2023-04-18 23:02:17.074148,Furniture,Lamps,North,Lucknow,Corporate,7772.7,3,0.2,18654.48,5186.72,April,4
+ORD-1149,2023-04-19 16:32:42.324649,Clothing,Shoes,West,Surat,Home Office,2568.92,5,0.0,12844.6,1430.52,April,4
+ORD-1150,2023-04-20 10:03:07.575150,Electronics,Phones,East,Patna,Consumer,7052.56,3,0.2,16926.14,4923.29,April,4
+ORD-1151,2023-04-21 03:33:32.825651,Electronics,Phones,East,Kolkata,Corporate,8633.43,3,0.0,25900.29,7563.47,April,4
+ORD-1152,2023-04-21 21:03:58.076152,Electronics,Laptops,West,Pune,Consumer,6263.19,2,0.0,12526.38,3035.11,April,4
+ORD-1153,2023-04-22 14:34:23.326653,Electronics,Cameras,North,Lucknow,Corporate,14327.84,3,0.0,42983.52,14932.38,April,4
+ORD-1154,2023-04-23 08:04:48.577154,Office Supplies,Pens,South,Bangalore,Consumer,856.2,1,0.0,856.2,143.69,April,4
+ORD-1155,2023-04-24 01:35:13.827655,Electronics,Accessories,East,Patna,Home Office,9983.59,4,0.05,37937.64,12676.62,April,4
+ORD-1156,2023-04-24 19:05:39.078156,Clothing,Shirts,North,Chandigarh,Corporate,2415.66,1,0.0,2415.66,789.87,April,4
+ORD-1157,2023-04-25 12:36:04.328657,Sports,Balls,North,Delhi,Corporate,2450.3,5,0.0,12251.5,1018.1,April,4
+ORD-1158,2023-04-26 06:06:29.579158,Electronics,Phones,South,Chennai,Consumer,10786.42,4,0.15,36673.83,7390.93,April,4
+ORD-1159,2023-04-26 23:36:54.829659,Office Supplies,Binders,East,Bhubaneswar,Consumer,353.47,3,0.1,954.37,328.13,April,4
+ORD-1160,2023-04-27 17:07:20.080160,Office Supplies,Binders,East,Kolkata,Corporate,753.16,5,0.1,3389.22,365.5,April,4
+ORD-1161,2023-04-28 10:37:45.330661,Electronics,Laptops,North,Delhi,Home Office,6026.05,4,0.15,20488.57,4669.38,April,4
+ORD-1162,2023-04-29 04:08:10.581162,Sports,Equipment,North,Delhi,Consumer,3182.56,3,0.1,8592.91,2958.7,April,4
+ORD-1163,2023-04-29 21:38:35.831663,Electronics,Laptops,South,Kochi,Consumer,12307.47,1,0.0,12307.47,2830.52,April,4
+ORD-1164,2023-04-30 15:09:01.082164,Office Supplies,Envelopes,South,Bangalore,Consumer,725.25,4,0.0,2901.0,380.76,April,4
+ORD-1165,2023-05-01 08:39:26.332665,Furniture,Chairs,East,Kolkata,Corporate,3216.96,3,0.1,8685.79,2060.18,May,5
+ORD-1166,2023-05-02 02:09:51.583166,Clothing,Shirts,West,Mumbai,Corporate,1445.63,1,0.0,1445.63,195.45,May,5
+ORD-1167,2023-05-02 19:40:16.833667,Office Supplies,Pens,East,Kolkata,Corporate,457.87,5,0.05,2174.88,479.17,May,5
+ORD-1168,2023-05-03 13:10:42.084168,Electronics,Phones,North,Lucknow,Corporate,8257.31,5,0.0,41286.55,4128.3,May,5
+ORD-1169,2023-05-04 06:41:07.334669,Clothing,Trousers,East,Guwahati,Home Office,1057.76,5,0.0,5288.8,1287.72,May,5
+ORD-1170,2023-05-05 00:11:32.585170,Electronics,Cameras,West,Pune,Home Office,13794.8,5,0.05,65525.3,14384.98,May,5
+ORD-1171,2023-05-05 17:41:57.835671,Electronics,Cameras,South,Bangalore,Corporate,10116.5,2,0.05,19221.35,5378.97,May,5
+ORD-1172,2023-05-06 11:12:23.086172,Furniture,Shelves,West,Ahmedabad,Home Office,4833.15,4,0.05,18365.97,4596.8,May,5
+ORD-1173,2023-05-07 04:42:48.336673,Clothing,Jackets,West,Ahmedabad,Consumer,1614.57,4,0.05,6135.37,1401.28,May,5
+ORD-1174,2023-05-07 22:13:13.587174,Clothing,Trousers,West,Ahmedabad,Consumer,1704.96,2,0.0,3409.92,907.86,May,5
+ORD-1175,2023-05-08 15:43:38.837675,Furniture,Lamps,South,Chennai,Consumer,6603.57,3,0.0,19810.71,2354.79,May,5
+ORD-1176,2023-05-09 09:14:04.088176,Office Supplies,Binders,West,Mumbai,Corporate,609.41,3,0.15,1554.0,374.12,May,5
+ORD-1177,2023-05-10 02:44:29.338677,Electronics,Phones,West,Surat,Consumer,13626.16,5,0.05,64724.26,8185.67,May,5
+ORD-1178,2023-05-10 20:14:54.589178,Sports,Equipment,West,Surat,Home Office,2392.71,1,0.0,2392.71,789.33,May,5
+ORD-1179,2023-05-11 13:45:19.839679,Electronics,Phones,North,Lucknow,Corporate,14324.72,3,0.1,38676.74,3807.73,May,5
+ORD-1180,2023-05-12 07:15:45.090180,Electronics,Accessories,West,Pune,Home Office,12973.68,1,0.0,12973.68,2545.45,May,5
+ORD-1181,2023-05-13 00:46:10.340681,Office Supplies,Binders,South,Chennai,Consumer,425.11,4,0.0,1700.44,455.49,May,5
+ORD-1182,2023-05-13 18:16:35.591182,Electronics,Accessories,West,Pune,Consumer,13733.71,1,0.0,13733.71,2797.09,May,5
+ORD-1183,2023-05-14 11:47:00.841683,Furniture,Chairs,West,Surat,Consumer,3698.2,4,0.1,13313.52,1396.13,May,5
+ORD-1184,2023-05-15 05:17:26.092184,Furniture,Chairs,South,Hyderabad,Corporate,7904.7,2,0.05,15018.93,3445.53,May,5
+ORD-1185,2023-05-15 22:47:51.342685,Clothing,Shirts,West,Mumbai,Home Office,1585.12,2,0.0,3170.24,802.83,May,5
+ORD-1186,2023-05-16 16:18:16.593186,Sports,Balls,South,Kochi,Corporate,3307.14,5,0.15,14055.34,3795.28,May,5
+ORD-1187,2023-05-17 09:48:41.843687,Electronics,Accessories,West,Ahmedabad,Corporate,13133.34,3,0.0,39400.02,7122.74,May,5
+ORD-1188,2023-05-18 03:19:07.094188,Electronics,Accessories,South,Hyderabad,Consumer,12536.88,5,0.0,62684.4,14554.58,May,5
+ORD-1189,2023-05-18 20:49:32.344689,Office Supplies,Pens,West,Mumbai,Corporate,774.02,4,0.0,3096.08,624.43,May,5
+ORD-1190,2023-05-19 14:19:57.595190,Furniture,Tables,West,Mumbai,Corporate,4828.07,5,0.0,24140.35,6311.62,May,5
+ORD-1191,2023-05-20 07:50:22.845691,Sports,Balls,North,Delhi,Consumer,1394.21,1,0.0,1394.21,331.21,May,5
+ORD-1192,2023-05-21 01:20:48.096192,Clothing,Jackets,North,Chandigarh,Corporate,1625.36,4,0.05,6176.37,1370.87,May,5
+ORD-1193,2023-05-21 18:51:13.346693,Furniture,Lamps,West,Mumbai,Consumer,4041.15,2,0.1,7274.07,1071.99,May,5
+ORD-1194,2023-05-22 12:21:38.597194,Clothing,Shoes,West,Ahmedabad,Consumer,2150.91,3,0.05,6130.09,493.75,May,5
+ORD-1195,2023-05-23 05:52:03.847695,Office Supplies,Binders,East,Kolkata,Consumer,507.66,4,0.0,2030.64,257.9,May,5
+ORD-1196,2023-05-23 23:22:29.098196,Office Supplies,Binders,South,Hyderabad,Consumer,885.37,4,0.0,3541.48,395.26,May,5
+ORD-1197,2023-05-24 16:52:54.348697,Electronics,Laptops,East,Guwahati,Corporate,10953.33,1,0.0,10953.33,2204.39,May,5
+ORD-1198,2023-05-25 10:23:19.599198,Sports,Equipment,North,Chandigarh,Consumer,3173.95,3,0.0,9521.85,2335.8,May,5
+ORD-1199,2023-05-26 03:53:44.849699,Clothing,Shoes,North,Jaipur,Consumer,1138.54,2,0.1,2049.37,281.86,May,5
+ORD-1200,2023-05-26 21:24:10.100200,Furniture,Shelves,North,Jaipur,Corporate,8172.09,4,0.0,32688.36,10903.05,May,5
+ORD-1201,2023-05-27 14:54:35.350701,Office Supplies,Binders,North,Lucknow,Corporate,853.65,4,0.1,3073.14,251.4,May,5
+ORD-1202,2023-05-28 08:25:00.601202,Electronics,Cameras,West,Surat,Home Office,9475.79,1,0.15,8054.42,2323.87,May,5
+ORD-1203,2023-05-29 01:55:25.851703,Electronics,Laptops,North,Lucknow,Corporate,10620.03,5,0.0,53100.15,13211.6,May,5
+ORD-1204,2023-05-29 19:25:51.102204,Clothing,Jackets,West,Mumbai,Corporate,2276.66,2,0.1,4097.99,741.16,May,5
+ORD-1205,2023-05-30 12:56:16.352705,Office Supplies,Envelopes,West,Mumbai,Home Office,404.9,3,0.05,1153.96,108.05,May,5
+ORD-1206,2023-05-31 06:26:41.603206,Sports,Apparel,North,Lucknow,Corporate,2406.16,4,0.05,9143.41,2280.56,May,5
+ORD-1207,2023-05-31 23:57:06.853707,Office Supplies,Binders,North,Delhi,Corporate,539.2,4,0.05,2048.96,377.25,May,5
+ORD-1208,2023-06-01 17:27:32.104208,Clothing,Shirts,South,Chennai,Corporate,1163.47,2,0.0,2326.94,774.39,June,6
+ORD-1209,2023-06-02 10:57:57.354709,Clothing,Shirts,East,Guwahati,Corporate,1561.56,5,0.0,7807.8,1767.2,June,6
+ORD-1210,2023-06-03 04:28:22.605210,Office Supplies,Envelopes,North,Chandigarh,Home Office,340.9,4,0.0,1363.6,455.04,June,6
+ORD-1211,2023-06-03 21:58:47.855711,Clothing,Trousers,South,Kochi,Corporate,946.46,2,0.0,1892.92,264.12,June,6
+ORD-1212,2023-06-04 15:29:13.106212,Office Supplies,Binders,South,Bangalore,Corporate,381.1,1,0.05,362.04,99.9,June,6
+ORD-1213,2023-06-05 08:59:38.356713,Furniture,Shelves,East,Bhubaneswar,Home Office,8778.69,5,0.0,43893.45,10826.64,June,6
+ORD-1214,2023-06-06 02:30:03.607214,Office Supplies,Envelopes,West,Mumbai,Consumer,629.72,3,0.15,1605.79,449.04,June,6
+ORD-1215,2023-06-06 20:00:28.857715,Office Supplies,Paper,North,Jaipur,Home Office,879.49,4,0.1,3166.16,436.8,June,6
+ORD-1216,2023-06-07 13:30:54.108216,Clothing,Trousers,East,Patna,Consumer,1678.5,2,0.0,3357.0,871.3,June,6
+ORD-1217,2023-06-08 07:01:19.358717,Clothing,Shirts,North,Lucknow,Home Office,1461.27,1,0.0,1461.27,313.4,June,6
+ORD-1218,2023-06-09 00:31:44.609218,Electronics,Phones,South,Chennai,Home Office,9658.96,3,0.15,24630.35,6910.36,June,6
+ORD-1219,2023-06-09 18:02:09.859719,Electronics,Phones,South,Bangalore,Corporate,9019.31,2,0.1,16234.76,2732.34,June,6
+ORD-1220,2023-06-10 11:32:35.110220,Furniture,Chairs,West,Mumbai,Consumer,3633.99,2,0.1,6541.18,2095.24,June,6
+ORD-1221,2023-06-11 05:03:00.360721,Electronics,Accessories,South,Chennai,Corporate,10951.93,3,0.0,32855.79,3376.31,June,6
+ORD-1222,2023-06-11 22:33:25.611222,Office Supplies,Binders,South,Hyderabad,Consumer,429.62,1,0.0,429.62,128.0,June,6
+ORD-1223,2023-06-12 16:03:50.861723,Clothing,Shirts,East,Guwahati,Home Office,2015.26,1,0.0,2015.26,629.88,June,6
+ORD-1224,2023-06-13 09:34:16.112224,Electronics,Laptops,North,Chandigarh,Home Office,11041.93,5,0.0,55209.65,16599.23,June,6
+ORD-1225,2023-06-14 03:04:41.362725,Electronics,Cameras,North,Jaipur,Consumer,6259.44,4,0.1,22533.98,4922.24,June,6
+ORD-1226,2023-06-14 20:35:06.613226,Furniture,Tables,East,Patna,Corporate,3368.1,3,0.1,9093.87,1803.9,June,6
+ORD-1227,2023-06-15 14:05:31.863727,Furniture,Tables,West,Mumbai,Corporate,7684.57,3,0.05,21901.02,7643.25,June,6
+ORD-1228,2023-06-16 07:35:57.114228,Office Supplies,Pens,North,Lucknow,Corporate,575.88,3,0.15,1468.49,208.34,June,6
+ORD-1229,2023-06-17 01:06:22.364729,Clothing,Shirts,South,Chennai,Corporate,1004.69,1,0.05,954.46,217.29,June,6
+ORD-1230,2023-06-17 18:36:47.615230,Furniture,Shelves,North,Delhi,Home Office,8969.2,4,0.0,35876.8,9366.8,June,6
+ORD-1231,2023-06-18 12:07:12.865731,Electronics,Laptops,South,Chennai,Home Office,5354.69,5,0.0,26773.45,7208.33,June,6
+ORD-1232,2023-06-19 05:37:38.116232,Clothing,Shirts,West,Pune,Home Office,2151.06,2,0.15,3656.8,493.98,June,6
+ORD-1233,2023-06-19 23:08:03.366733,Clothing,Trousers,East,Patna,Home Office,2670.62,2,0.0,5341.24,1370.45,June,6
+ORD-1234,2023-06-20 16:38:28.617234,Electronics,Laptops,North,Chandigarh,Home Office,7096.13,3,0.15,18095.13,5445.91,June,6
+ORD-1235,2023-06-21 10:08:53.867735,Furniture,Chairs,East,Patna,Corporate,3853.5,4,0.1,13872.6,1297.16,June,6
+ORD-1236,2023-06-22 03:39:19.118236,Electronics,Accessories,North,Delhi,Corporate,5965.3,1,0.0,5965.3,1945.35,June,6
+ORD-1237,2023-06-22 21:09:44.368737,Clothing,Shoes,South,Hyderabad,Corporate,1445.9,4,0.05,5494.42,483.32,June,6
+ORD-1238,2023-06-23 14:40:09.619238,Sports,Fitness,East,Kolkata,Corporate,1442.51,4,0.15,4904.53,863.75,June,6
+ORD-1239,2023-06-24 08:10:34.869739,Sports,Balls,North,Lucknow,Home Office,2861.19,1,0.05,2718.13,229.06,June,6
+ORD-1240,2023-06-25 01:41:00.120240,Office Supplies,Envelopes,South,Kochi,Home Office,337.38,3,0.15,860.32,86.75,June,6
+ORD-1241,2023-06-25 19:11:25.370741,Electronics,Cameras,East,Guwahati,Home Office,9690.45,4,0.15,32947.53,10741.4,June,6
+ORD-1242,2023-06-26 12:41:50.621242,Electronics,Cameras,East,Bhubaneswar,Consumer,14368.29,2,0.0,28736.58,5052.25,June,6
+ORD-1243,2023-06-27 06:12:15.871743,Office Supplies,Binders,North,Lucknow,Corporate,788.38,1,0.0,788.38,153.49,June,6
+ORD-1244,2023-06-27 23:42:41.122244,Office Supplies,Paper,North,Lucknow,Corporate,669.13,5,0.15,2843.8,392.85,June,6
+ORD-1245,2023-06-28 17:13:06.372745,Office Supplies,Envelopes,North,Delhi,Home Office,483.75,3,0.05,1378.69,332.56,June,6
+ORD-1246,2023-06-29 10:43:31.623246,Clothing,Shirts,South,Chennai,Corporate,2023.01,1,0.0,2023.01,486.73,June,6
+ORD-1247,2023-06-30 04:13:56.873747,Electronics,Phones,North,Lucknow,Corporate,9859.6,5,0.0,49298.0,8898.0,June,6
+ORD-1248,2023-06-30 21:44:22.124248,Clothing,Shoes,East,Bhubaneswar,Home Office,1666.95,5,0.05,7918.01,1345.42,June,6
+ORD-1249,2023-07-01 15:14:47.374749,Office Supplies,Envelopes,East,Guwahati,Consumer,378.43,4,0.15,1286.66,410.37,July,7
+ORD-1250,2023-07-02 08:45:12.625250,Electronics,Cameras,North,Lucknow,Consumer,13311.4,4,0.1,47921.04,8792.88,July,7
+ORD-1251,2023-07-03 02:15:37.875751,Clothing,Shirts,North,Lucknow,Consumer,1709.61,4,0.05,6496.52,1385.35,July,7
+ORD-1252,2023-07-03 19:46:03.126252,Clothing,Trousers,West,Pune,Home Office,1250.32,1,0.0,1250.32,195.67,July,7
+ORD-1253,2023-07-04 13:16:28.376753,Office Supplies,Binders,East,Patna,Corporate,520.66,1,0.0,520.66,152.26,July,7
+ORD-1254,2023-07-05 06:46:53.627254,Electronics,Accessories,South,Chennai,Home Office,8775.65,3,0.15,22377.91,4191.63,July,7
+ORD-1255,2023-07-06 00:17:18.877755,Office Supplies,Binders,West,Ahmedabad,Home Office,796.52,4,0.0,3186.08,696.72,July,7
+ORD-1256,2023-07-06 17:47:44.128256,Electronics,Accessories,North,Delhi,Corporate,11842.7,5,0.0,59213.5,8787.66,July,7
+ORD-1257,2023-07-07 11:18:09.378757,Sports,Fitness,North,Chandigarh,Consumer,3046.33,2,0.0,6092.66,2112.13,July,7
+ORD-1258,2023-07-08 04:48:34.629258,Furniture,Lamps,East,Patna,Consumer,3066.19,3,0.05,8738.64,1386.86,July,7
+ORD-1259,2023-07-08 22:18:59.879759,Furniture,Tables,North,Jaipur,Home Office,5496.92,1,0.15,4672.38,1346.11,July,7
+ORD-1260,2023-07-09 15:49:25.130260,Furniture,Shelves,South,Hyderabad,Consumer,5888.06,3,0.0,17664.18,3452.0,July,7
+ORD-1261,2023-07-10 09:19:50.380761,Office Supplies,Binders,East,Guwahati,Home Office,311.52,3,0.0,934.56,126.8,July,7
+ORD-1262,2023-07-11 02:50:15.631262,Sports,Balls,North,Jaipur,Home Office,1823.55,3,0.05,5197.12,1537.95,July,7
+ORD-1263,2023-07-11 20:20:40.881763,Electronics,Cameras,East,Kolkata,Corporate,12098.78,3,0.2,29037.07,4938.45,July,7
+ORD-1264,2023-07-12 13:51:06.132264,Clothing,Shoes,North,Chandigarh,Corporate,1146.8,2,0.0,2293.6,719.28,July,7
+ORD-1265,2023-07-13 07:21:31.382765,Electronics,Laptops,North,Lucknow,Corporate,9938.98,4,0.0,39755.92,13004.93,July,7
+ORD-1266,2023-07-14 00:51:56.633266,Clothing,Trousers,North,Delhi,Home Office,1287.36,5,0.0,6436.8,2009.26,July,7
+ORD-1267,2023-07-14 18:22:21.883767,Electronics,Cameras,South,Hyderabad,Corporate,4916.36,3,0.15,12536.72,1121.44,July,7
+ORD-1268,2023-07-15 11:52:47.134268,Sports,Equipment,South,Kochi,Consumer,1778.88,3,0.0,5336.64,1561.45,July,7
+ORD-1269,2023-07-16 05:23:12.384769,Clothing,Trousers,East,Bhubaneswar,Consumer,2656.57,3,0.0,7969.71,1522.71,July,7
+ORD-1270,2023-07-16 22:53:37.635270,Office Supplies,Envelopes,North,Lucknow,Home Office,780.92,4,0.05,2967.5,937.45,July,7
+ORD-1271,2023-07-17 16:24:02.885771,Electronics,Accessories,North,Lucknow,Home Office,14011.94,1,0.1,12610.75,3181.03,July,7
+ORD-1272,2023-07-18 09:54:28.136272,Electronics,Accessories,South,Kochi,Corporate,9483.4,1,0.0,9483.4,2893.23,July,7
+ORD-1273,2023-07-19 03:24:53.386773,Clothing,Trousers,North,Lucknow,Home Office,1097.53,2,0.15,1865.8,400.86,July,7
+ORD-1274,2023-07-19 20:55:18.637274,Office Supplies,Pens,South,Hyderabad,Home Office,628.78,1,0.0,628.78,141.13,July,7
+ORD-1275,2023-07-20 14:25:43.887775,Office Supplies,Binders,North,Jaipur,Consumer,572.63,3,0.05,1632.0,194.18,July,7
+ORD-1276,2023-07-21 07:56:09.138276,Sports,Fitness,East,Kolkata,Consumer,3226.46,3,0.0,9679.38,2823.25,July,7
+ORD-1277,2023-07-22 01:26:34.388777,Office Supplies,Pens,North,Jaipur,Corporate,358.85,3,0.1,968.9,187.23,July,7
+ORD-1278,2023-07-22 18:56:59.639278,Office Supplies,Paper,North,Delhi,Home Office,592.94,2,0.0,1185.88,254.99,July,7
+ORD-1279,2023-07-23 12:27:24.889779,Office Supplies,Envelopes,West,Pune,Home Office,390.03,3,0.15,994.58,290.39,July,7
+ORD-1280,2023-07-24 05:57:50.140280,Furniture,Tables,South,Bangalore,Consumer,4948.06,1,0.1,4453.25,1076.3,July,7
+ORD-1281,2023-07-24 23:28:15.390781,Sports,Equipment,North,Delhi,Home Office,2969.66,4,0.05,11284.71,1515.5,July,7
+ORD-1282,2023-07-25 16:58:40.641282,Electronics,Phones,North,Chandigarh,Consumer,9369.77,4,0.1,33731.17,8073.99,July,7
+ORD-1283,2023-07-26 10:29:05.891783,Clothing,Shirts,West,Mumbai,Corporate,1576.6,5,0.1,7094.7,1348.42,July,7
+ORD-1284,2023-07-27 03:59:31.142284,Electronics,Accessories,West,Surat,Consumer,8586.97,1,0.0,8586.97,1775.54,July,7
+ORD-1285,2023-07-27 21:29:56.392785,Sports,Fitness,South,Bangalore,Home Office,2302.67,3,0.0,6908.01,605.45,July,7
+ORD-1286,2023-07-28 15:00:21.643286,Clothing,Jackets,West,Pune,Corporate,2313.03,4,0.15,7864.3,1075.11,July,7
+ORD-1287,2023-07-29 08:30:46.893787,Sports,Apparel,East,Guwahati,Consumer,3341.0,1,0.0,3341.0,520.8,July,7
+ORD-1288,2023-07-30 02:01:12.144288,Office Supplies,Envelopes,West,Pune,Consumer,873.2,4,0.1,3143.52,856.61,July,7
+ORD-1289,2023-07-30 19:31:37.394789,Clothing,Jackets,East,Bhubaneswar,Corporate,2316.43,3,0.2,5559.43,462.01,July,7
+ORD-1290,2023-07-31 13:02:02.645290,Office Supplies,Envelopes,South,Hyderabad,Corporate,489.24,4,0.0,1956.96,372.55,July,7
+ORD-1291,2023-08-01 06:32:27.895791,Electronics,Cameras,South,Hyderabad,Consumer,11406.09,5,0.05,54178.93,17851.27,August,8
+ORD-1292,2023-08-02 00:02:53.146292,Electronics,Cameras,South,Chennai,Home Office,9000.99,5,0.0,45004.95,4959.9,August,8
+ORD-1293,2023-08-02 17:33:18.396793,Clothing,Shirts,South,Chennai,Consumer,1358.41,4,0.05,5161.96,1132.71,August,8
+ORD-1294,2023-08-03 11:03:43.647294,Clothing,Jackets,South,Chennai,Corporate,2413.57,1,0.0,2413.57,705.63,August,8
+ORD-1295,2023-08-04 04:34:08.897795,Sports,Balls,East,Patna,Consumer,1292.22,1,0.0,1292.22,432.23,August,8
+ORD-1296,2023-08-04 22:04:34.148296,Sports,Fitness,East,Patna,Corporate,3364.23,1,0.05,3196.02,900.09,August,8
+ORD-1297,2023-08-05 15:34:59.398797,Office Supplies,Binders,South,Bangalore,Corporate,576.89,4,0.1,2076.8,570.19,August,8
+ORD-1298,2023-08-06 09:05:24.649298,Clothing,Trousers,West,Mumbai,Home Office,2046.96,1,0.1,1842.26,558.48,August,8
+ORD-1299,2023-08-07 02:35:49.899799,Electronics,Phones,North,Chandigarh,Corporate,11129.8,3,0.05,31719.93,6359.03,August,8
+ORD-1300,2023-08-07 20:06:15.150300,Sports,Fitness,South,Kochi,Corporate,3348.28,5,0.0,16741.4,4981.87,August,8
+ORD-1301,2023-08-08 13:36:40.400801,Sports,Apparel,West,Surat,Home Office,2728.01,3,0.05,7774.83,638.71,August,8
+ORD-1302,2023-08-09 07:07:05.651302,Electronics,Laptops,North,Lucknow,Corporate,10693.76,1,0.0,10693.76,3525.0,August,8
+ORD-1303,2023-08-10 00:37:30.901803,Sports,Balls,South,Hyderabad,Home Office,1359.96,3,0.15,3467.9,692.51,August,8
+ORD-1304,2023-08-10 18:07:56.152304,Office Supplies,Pens,South,Hyderabad,Home Office,611.04,1,0.1,549.94,126.16,August,8
+ORD-1305,2023-08-11 11:38:21.402805,Clothing,Shoes,East,Bhubaneswar,Corporate,1170.3,4,0.1,4213.08,626.98,August,8
+ORD-1306,2023-08-12 05:08:46.653306,Electronics,Phones,North,Jaipur,Corporate,11879.36,3,0.15,30292.37,8496.5,August,8
+ORD-1307,2023-08-12 22:39:11.903807,Clothing,Trousers,North,Delhi,Consumer,1822.0,4,0.0,7288.0,733.84,August,8
+ORD-1308,2023-08-13 16:09:37.154308,Sports,Fitness,West,Pune,Home Office,2832.55,4,0.1,10197.18,3218.35,August,8
+ORD-1309,2023-08-14 09:40:02.404809,Sports,Balls,East,Kolkata,Consumer,1300.01,2,0.0,2600.02,789.34,August,8
+ORD-1310,2023-08-15 03:10:27.655310,Electronics,Laptops,East,Kolkata,Corporate,5614.0,1,0.15,4771.9,660.13,August,8
+ORD-1311,2023-08-15 20:40:52.905811,Office Supplies,Binders,East,Bhubaneswar,Consumer,729.79,5,0.0,3648.95,1089.28,August,8
+ORD-1312,2023-08-16 14:11:18.156312,Furniture,Shelves,East,Kolkata,Home Office,3432.51,1,0.1,3089.26,903.04,August,8
+ORD-1313,2023-08-17 07:41:43.406813,Electronics,Phones,North,Jaipur,Consumer,5484.06,5,0.15,23307.26,5843.09,August,8
+ORD-1314,2023-08-18 01:12:08.657314,Furniture,Tables,North,Delhi,Home Office,3072.65,1,0.0,3072.65,555.69,August,8
+ORD-1315,2023-08-18 18:42:33.907815,Furniture,Chairs,South,Kochi,Corporate,8739.01,4,0.0,34956.04,5358.92,August,8
+ORD-1316,2023-08-19 12:12:59.158316,Office Supplies,Paper,South,Kochi,Corporate,742.51,3,0.1,2004.78,285.84,August,8
+ORD-1317,2023-08-20 05:43:24.408817,Furniture,Tables,East,Guwahati,Home Office,5119.51,3,0.0,15358.53,2549.89,August,8
+ORD-1318,2023-08-20 23:13:49.659318,Furniture,Tables,East,Patna,Corporate,4779.21,2,0.0,9558.42,3096.55,August,8
+ORD-1319,2023-08-21 16:44:14.909819,Office Supplies,Envelopes,East,Kolkata,Corporate,509.82,5,0.0,2549.1,257.36,August,8
+ORD-1320,2023-08-22 10:14:40.160320,Furniture,Tables,South,Chennai,Corporate,7647.92,5,0.0,38239.6,11617.01,August,8
+ORD-1321,2023-08-23 03:45:05.410821,Furniture,Shelves,West,Pune,Corporate,6968.22,5,0.15,29614.94,5158.93,August,8
+ORD-1322,2023-08-23 21:15:30.661322,Furniture,Chairs,West,Mumbai,Home Office,4111.17,4,0.05,15622.45,3449.93,August,8
+ORD-1323,2023-08-24 14:45:55.911823,Electronics,Phones,South,Hyderabad,Consumer,6471.45,5,0.0,32357.25,9529.57,August,8
+ORD-1324,2023-08-25 08:16:21.162324,Electronics,Accessories,South,Hyderabad,Consumer,5744.6,3,0.0,17233.8,5493.82,August,8
+ORD-1325,2023-08-26 01:46:46.412825,Electronics,Laptops,South,Kochi,Corporate,11138.91,4,0.0,44555.64,7712.18,August,8
+ORD-1326,2023-08-26 19:17:11.663326,Office Supplies,Binders,South,Bangalore,Consumer,758.62,1,0.0,758.62,155.29,August,8
+ORD-1327,2023-08-27 12:47:36.913827,Sports,Apparel,South,Bangalore,Consumer,1836.11,5,0.0,9180.55,1761.93,August,8
+ORD-1328,2023-08-28 06:18:02.164328,Furniture,Lamps,South,Chennai,Corporate,3125.67,5,0.0,15628.35,1306.18,August,8
+ORD-1329,2023-08-28 23:48:27.414829,Furniture,Shelves,East,Kolkata,Corporate,3493.03,1,0.0,3493.03,558.55,August,8
+ORD-1330,2023-08-29 17:18:52.665330,Office Supplies,Paper,East,Patna,Consumer,880.72,5,0.1,3963.24,808.43,August,8
+ORD-1331,2023-08-30 10:49:17.915831,Furniture,Shelves,East,Kolkata,Home Office,4772.67,1,0.0,4772.67,911.56,August,8
+ORD-1332,2023-08-31 04:19:43.166332,Electronics,Phones,East,Bhubaneswar,Corporate,12184.54,4,0.05,46301.25,12729.18,August,8
+ORD-1333,2023-08-31 21:50:08.416833,Sports,Balls,South,Kochi,Home Office,2699.19,3,0.05,7692.69,1414.66,August,8
+ORD-1334,2023-09-01 15:20:33.667334,Clothing,Shirts,West,Pune,Consumer,1587.49,1,0.05,1508.12,319.92,September,9
+ORD-1335,2023-09-02 08:50:58.917835,Furniture,Tables,North,Chandigarh,Corporate,4234.12,2,0.05,8044.83,1576.74,September,9
+ORD-1336,2023-09-03 02:21:24.168336,Electronics,Cameras,South,Kochi,Home Office,5965.31,1,0.05,5667.04,1586.6,September,9
+ORD-1337,2023-09-03 19:51:49.418837,Clothing,Shirts,North,Chandigarh,Corporate,2007.02,5,0.15,8529.84,2669.86,September,9
+ORD-1338,2023-09-04 13:22:14.669338,Sports,Balls,West,Pune,Consumer,3059.12,4,0.05,11624.66,2599.39,September,9
+ORD-1339,2023-09-05 06:52:39.919839,Clothing,Trousers,East,Kolkata,Home Office,2059.03,4,0.05,7824.31,2293.67,September,9
+ORD-1340,2023-09-06 00:23:05.170340,Electronics,Phones,West,Mumbai,Consumer,9890.9,1,0.1,8901.81,1425.47,September,9
+ORD-1341,2023-09-06 17:53:30.420841,Clothing,Shoes,South,Kochi,Consumer,975.51,3,0.05,2780.2,628.8,September,9
+ORD-1342,2023-09-07 11:23:55.671342,Office Supplies,Binders,East,Kolkata,Corporate,881.09,2,0.0,1762.18,305.23,September,9
+ORD-1343,2023-09-08 04:54:20.921843,Clothing,Jackets,South,Bangalore,Home Office,2337.69,4,0.0,9350.76,1793.8,September,9
+ORD-1344,2023-09-08 22:24:46.172344,Furniture,Chairs,East,Bhubaneswar,Consumer,4756.93,5,0.0,23784.65,6606.23,September,9
+ORD-1345,2023-09-09 15:55:11.422845,Furniture,Tables,North,Lucknow,Consumer,8879.82,5,0.15,37739.24,12002.92,September,9
+ORD-1346,2023-09-10 09:25:36.673346,Office Supplies,Binders,North,Delhi,Home Office,661.13,3,0.1,1785.05,201.36,September,9
+ORD-1347,2023-09-11 02:56:01.923847,Electronics,Laptops,North,Lucknow,Consumer,10391.26,4,0.15,35330.28,8880.36,September,9
+ORD-1348,2023-09-11 20:26:27.174348,Furniture,Tables,West,Mumbai,Consumer,7488.44,1,0.05,7114.02,1687.29,September,9
+ORD-1349,2023-09-12 13:56:52.424849,Sports,Apparel,South,Bangalore,Home Office,3148.25,5,0.0,15741.25,1762.58,September,9
+ORD-1350,2023-09-13 07:27:17.675350,Furniture,Tables,West,Surat,Home Office,6938.87,3,0.0,20816.61,2856.28,September,9
+ORD-1351,2023-09-14 00:57:42.925851,Furniture,Shelves,North,Jaipur,Home Office,3768.57,4,0.05,14320.57,2348.15,September,9
+ORD-1352,2023-09-14 18:28:08.176352,Electronics,Laptops,South,Kochi,Home Office,8047.37,4,0.05,30580.01,3824.68,September,9
+ORD-1353,2023-09-15 11:58:33.426853,Clothing,Shoes,North,Lucknow,Corporate,2570.55,4,0.2,8225.76,1199.37,September,9
+ORD-1354,2023-09-16 05:28:58.677354,Furniture,Chairs,West,Pune,Home Office,4347.69,4,0.0,17390.76,2647.78,September,9
+ORD-1355,2023-09-16 22:59:23.927855,Office Supplies,Envelopes,West,Mumbai,Corporate,523.3,4,0.05,1988.54,339.31,September,9
+ORD-1356,2023-09-17 16:29:49.178356,Clothing,Shoes,West,Mumbai,Corporate,1677.74,5,0.05,7969.26,2250.0,September,9
+ORD-1357,2023-09-18 10:00:14.428857,Sports,Apparel,North,Delhi,Corporate,2254.57,3,0.05,6425.52,1506.25,September,9
+ORD-1358,2023-09-19 03:30:39.679358,Electronics,Cameras,South,Hyderabad,Consumer,10684.22,4,0.05,40600.04,14059.25,September,9
+ORD-1359,2023-09-19 21:01:04.929859,Sports,Apparel,South,Kochi,Corporate,3463.38,2,0.1,6234.08,1196.81,September,9
+ORD-1360,2023-09-20 14:31:30.180360,Clothing,Shoes,North,Chandigarh,Corporate,1333.25,2,0.0,2666.5,756.07,September,9
+ORD-1361,2023-09-21 08:01:55.430861,Clothing,Trousers,South,Hyderabad,Consumer,1118.7,3,0.1,3020.49,952.35,September,9
+ORD-1362,2023-09-22 01:32:20.681362,Clothing,Jackets,North,Jaipur,Consumer,1255.45,1,0.05,1192.68,314.06,September,9
+ORD-1363,2023-09-22 19:02:45.931863,Sports,Balls,South,Hyderabad,Consumer,3328.62,1,0.15,2829.33,540.98,September,9
+ORD-1364,2023-09-23 12:33:11.182364,Clothing,Shoes,East,Bhubaneswar,Home Office,2062.46,1,0.1,1856.21,526.18,September,9
+ORD-1365,2023-09-24 06:03:36.432865,Sports,Fitness,East,Guwahati,Consumer,1886.18,2,0.0,3772.36,509.23,September,9
+ORD-1366,2023-09-24 23:34:01.683366,Clothing,Trousers,West,Ahmedabad,Consumer,2368.7,1,0.0,2368.7,398.98,September,9
+ORD-1367,2023-09-25 17:04:26.933867,Office Supplies,Paper,East,Bhubaneswar,Corporate,816.82,5,0.2,3267.28,743.65,September,9
+ORD-1368,2023-09-26 10:34:52.184368,Clothing,Jackets,East,Kolkata,Consumer,2423.73,4,0.05,9210.17,2167.71,September,9
+ORD-1369,2023-09-27 04:05:17.434869,Sports,Balls,East,Bhubaneswar,Home Office,3405.42,2,0.15,5789.21,497.75,September,9
+ORD-1370,2023-09-27 21:35:42.685370,Furniture,Chairs,North,Delhi,Consumer,4513.45,3,0.0,13540.35,4538.47,September,9
+ORD-1371,2023-09-28 15:06:07.935871,Clothing,Shirts,East,Patna,Home Office,2259.08,3,0.05,6438.38,1726.06,September,9
+ORD-1372,2023-09-29 08:36:33.186372,Furniture,Shelves,East,Guwahati,Consumer,5763.24,4,0.1,20747.66,4436.68,September,9
+ORD-1373,2023-09-30 02:06:58.436873,Office Supplies,Binders,West,Surat,Consumer,805.2,2,0.15,1368.84,454.38,September,9
+ORD-1374,2023-09-30 19:37:23.687374,Electronics,Laptops,East,Patna,Consumer,11793.51,1,0.0,11793.51,2341.67,September,9
+ORD-1375,2023-10-01 13:07:48.937875,Office Supplies,Pens,East,Guwahati,Consumer,765.87,1,0.1,689.28,237.61,October,10
+ORD-1376,2023-10-02 06:38:14.188376,Clothing,Jackets,South,Kochi,Home Office,2081.09,5,0.05,9885.18,2158.1,October,10
+ORD-1377,2023-10-03 00:08:39.438877,Furniture,Tables,West,Mumbai,Home Office,4064.57,5,0.0,20322.85,2252.93,October,10
+ORD-1378,2023-10-03 17:39:04.689378,Furniture,Chairs,West,Ahmedabad,Corporate,6270.16,1,0.05,5956.65,1706.56,October,10
+ORD-1379,2023-10-04 11:09:29.939879,Sports,Balls,West,Pune,Home Office,3563.21,3,0.05,10155.15,2673.88,October,10
+ORD-1380,2023-10-05 04:39:55.190380,Furniture,Shelves,West,Mumbai,Consumer,8624.33,3,0.15,21992.04,6349.24,October,10
+ORD-1381,2023-10-05 22:10:20.440881,Sports,Balls,West,Ahmedabad,Corporate,1303.62,5,0.0,6518.1,2195.88,October,10
+ORD-1382,2023-10-06 15:40:45.691382,Electronics,Cameras,West,Mumbai,Corporate,6382.22,4,0.0,25528.88,7394.49,October,10
+ORD-1383,2023-10-07 09:11:10.941883,Clothing,Shirts,North,Chandigarh,Corporate,1137.11,1,0.0,1137.11,278.66,October,10
+ORD-1384,2023-10-08 02:41:36.192384,Sports,Balls,East,Bhubaneswar,Consumer,2942.35,5,0.0,14711.75,4582.32,October,10
+ORD-1385,2023-10-08 20:12:01.442885,Electronics,Cameras,West,Ahmedabad,Home Office,12650.74,5,0.0,63253.7,16558.33,October,10
+ORD-1386,2023-10-09 13:42:26.693386,Furniture,Tables,East,Bhubaneswar,Consumer,4281.07,1,0.1,3852.96,732.8,October,10
+ORD-1387,2023-10-10 07:12:51.943887,Furniture,Tables,East,Kolkata,Corporate,6035.12,1,0.0,6035.12,1925.91,October,10
+ORD-1388,2023-10-11 00:43:17.194388,Electronics,Cameras,North,Chandigarh,Consumer,12870.75,3,0.15,32820.41,4592.01,October,10
+ORD-1389,2023-10-11 18:13:42.444889,Furniture,Shelves,West,Mumbai,Consumer,7396.81,4,0.2,23669.79,6460.74,October,10
+ORD-1390,2023-10-12 11:44:07.695390,Electronics,Phones,South,Bangalore,Home Office,10005.48,4,0.05,38020.82,12091.46,October,10
+ORD-1391,2023-10-13 05:14:32.945891,Sports,Fitness,North,Chandigarh,Home Office,2616.83,1,0.15,2224.31,617.15,October,10
+ORD-1392,2023-10-13 22:44:58.196392,Sports,Balls,South,Hyderabad,Corporate,2420.07,2,0.1,4356.13,1168.59,October,10
+ORD-1393,2023-10-14 16:15:23.446893,Electronics,Accessories,East,Guwahati,Consumer,7656.47,5,0.05,36368.23,10299.93,October,10
+ORD-1394,2023-10-15 09:45:48.697394,Sports,Balls,East,Bhubaneswar,Consumer,2556.05,5,0.0,12780.25,2627.17,October,10
+ORD-1395,2023-10-16 03:16:13.947895,Sports,Fitness,North,Delhi,Home Office,2853.32,1,0.0,2853.32,901.72,October,10
+ORD-1396,2023-10-16 20:46:39.198396,Sports,Balls,North,Delhi,Consumer,3295.97,2,0.05,6262.34,844.96,October,10
+ORD-1397,2023-10-17 14:17:04.448897,Office Supplies,Pens,South,Chennai,Consumer,681.77,3,0.15,1738.51,198.88,October,10
+ORD-1398,2023-10-18 07:47:29.699398,Clothing,Shoes,West,Ahmedabad,Consumer,2270.02,1,0.0,2270.02,356.59,October,10
+ORD-1399,2023-10-19 01:17:54.949899,Furniture,Shelves,South,Hyderabad,Home Office,3960.43,1,0.15,3366.37,752.47,October,10
+ORD-1400,2023-10-19 18:48:20.200400,Office Supplies,Binders,North,Delhi,Corporate,576.93,5,0.05,2740.42,597.01,October,10
+ORD-1401,2023-10-20 12:18:45.450901,Sports,Fitness,South,Bangalore,Corporate,1222.4,1,0.0,1222.4,368.63,October,10
+ORD-1402,2023-10-21 05:49:10.701402,Electronics,Accessories,North,Lucknow,Consumer,7168.12,1,0.2,5734.5,1085.16,October,10
+ORD-1403,2023-10-21 23:19:35.951903,Sports,Equipment,South,Kochi,Corporate,2943.51,1,0.05,2796.33,589.39,October,10
+ORD-1404,2023-10-22 16:50:01.202404,Clothing,Jackets,North,Chandigarh,Home Office,2685.26,5,0.0,13426.3,1122.56,October,10
+ORD-1405,2023-10-23 10:20:26.452905,Sports,Equipment,North,Delhi,Home Office,1438.03,3,0.05,4098.39,781.27,October,10
+ORD-1406,2023-10-24 03:50:51.703406,Electronics,Phones,North,Delhi,Corporate,8654.35,3,0.0,25963.05,6617.96,October,10
+ORD-1407,2023-10-24 21:21:16.953907,Clothing,Shirts,West,Ahmedabad,Corporate,2340.13,1,0.05,2223.12,187.16,October,10
+ORD-1408,2023-10-25 14:51:42.204408,Sports,Balls,South,Chennai,Consumer,1689.69,5,0.0,8448.45,1316.59,October,10
+ORD-1409,2023-10-26 08:22:07.454909,Clothing,Shirts,South,Hyderabad,Corporate,1899.15,3,0.0,5697.45,775.7,October,10
+ORD-1410,2023-10-27 01:52:32.705410,Furniture,Tables,South,Chennai,Consumer,7398.43,3,0.2,17756.23,1621.78,October,10
+ORD-1411,2023-10-27 19:22:57.955911,Furniture,Lamps,North,Chandigarh,Consumer,6695.91,3,0.05,19083.34,3996.06,October,10
+ORD-1412,2023-10-28 12:53:23.206412,Sports,Fitness,South,Chennai,Home Office,1651.26,5,0.0,8256.3,1065.6,October,10
+ORD-1413,2023-10-29 06:23:48.456913,Clothing,Shoes,South,Bangalore,Home Office,1539.69,5,0.0,7698.45,2160.43,October,10
+ORD-1414,2023-10-29 23:54:13.707414,Electronics,Laptops,North,Jaipur,Home Office,12324.4,1,0.15,10475.74,3236.38,October,10
+ORD-1415,2023-10-30 17:24:38.957915,Sports,Balls,East,Patna,Home Office,2530.14,4,0.0,10120.56,2300.48,October,10
+ORD-1416,2023-10-31 10:55:04.208416,Furniture,Tables,North,Jaipur,Corporate,3031.38,3,0.0,9094.14,3138.03,October,10
+ORD-1417,2023-11-01 04:25:29.458917,Furniture,Shelves,South,Hyderabad,Home Office,7565.94,4,0.0,30263.76,6102.06,November,11
+ORD-1418,2023-11-01 21:55:54.709418,Sports,Apparel,North,Chandigarh,Corporate,1284.75,5,0.0,6423.75,1404.29,November,11
+ORD-1419,2023-11-02 15:26:19.959919,Clothing,Trousers,East,Kolkata,Home Office,2242.32,5,0.1,10090.44,3502.28,November,11
+ORD-1420,2023-11-03 08:56:45.210420,Furniture,Tables,North,Jaipur,Corporate,4214.88,5,0.1,18966.96,2703.13,November,11
+ORD-1421,2023-11-04 02:27:10.460921,Clothing,Trousers,South,Bangalore,Consumer,2624.53,4,0.0,10498.12,3511.49,November,11
+ORD-1422,2023-11-04 19:57:35.711422,Furniture,Lamps,East,Patna,Corporate,5207.64,5,0.05,24736.29,2265.01,November,11
+ORD-1423,2023-11-05 13:28:00.961923,Furniture,Chairs,West,Mumbai,Corporate,4961.59,1,0.0,4961.59,994.92,November,11
+ORD-1424,2023-11-06 06:58:26.212424,Office Supplies,Pens,South,Bangalore,Home Office,389.33,5,0.2,1557.32,154.02,November,11
+ORD-1425,2023-11-07 00:28:51.462925,Furniture,Tables,East,Guwahati,Corporate,4833.63,2,0.2,7733.81,2141.44,November,11
+ORD-1426,2023-11-07 17:59:16.713426,Electronics,Laptops,East,Bhubaneswar,Consumer,13215.85,4,0.0,52863.4,12912.96,November,11
+ORD-1427,2023-11-08 11:29:41.963927,Sports,Apparel,West,Mumbai,Consumer,3591.2,2,0.15,6105.04,1653.19,November,11
+ORD-1428,2023-11-09 05:00:07.214428,Sports,Apparel,North,Chandigarh,Home Office,2083.94,5,0.1,9377.73,1698.4,November,11
+ORD-1429,2023-11-09 22:30:32.464929,Clothing,Jackets,North,Lucknow,Consumer,1707.5,1,0.0,1707.5,306.94,November,11
+ORD-1430,2023-11-10 16:00:57.715430,Furniture,Chairs,South,Bangalore,Corporate,7332.43,3,0.0,21997.29,2028.95,November,11
+ORD-1431,2023-11-11 09:31:22.965931,Electronics,Cameras,West,Surat,Consumer,13307.48,5,0.0,66537.4,11609.79,November,11
+ORD-1432,2023-11-12 03:01:48.216432,Clothing,Shirts,North,Lucknow,Home Office,1967.48,1,0.1,1770.73,585.95,November,11
+ORD-1433,2023-11-12 20:32:13.466933,Office Supplies,Binders,West,Ahmedabad,Corporate,534.92,4,0.2,1711.74,312.21,November,11
+ORD-1434,2023-11-13 14:02:38.717434,Clothing,Shoes,North,Jaipur,Home Office,1642.72,2,0.1,2956.9,900.29,November,11
+ORD-1435,2023-11-14 07:33:03.967935,Clothing,Shoes,East,Kolkata,Corporate,2152.11,2,0.15,3658.59,1124.75,November,11
+ORD-1436,2023-11-15 01:03:29.218436,Furniture,Lamps,North,Delhi,Consumer,3019.31,2,0.05,5736.69,1037.05,November,11
+ORD-1437,2023-11-15 18:33:54.468937,Office Supplies,Pens,West,Ahmedabad,Home Office,671.75,4,0.1,2418.3,606.12,November,11
+ORD-1438,2023-11-16 12:04:19.719438,Clothing,Trousers,East,Kolkata,Home Office,1539.89,1,0.1,1385.9,146.56,November,11
+ORD-1439,2023-11-17 05:34:44.969939,Electronics,Accessories,East,Bhubaneswar,Corporate,12424.29,4,0.0,49697.16,5366.96,November,11
+ORD-1440,2023-11-17 23:05:10.220440,Electronics,Laptops,East,Guwahati,Home Office,5692.71,2,0.05,10816.15,1007.39,November,11
+ORD-1441,2023-11-18 16:35:35.470941,Sports,Equipment,West,Pune,Corporate,2611.69,5,0.1,11752.61,2783.89,November,11
+ORD-1442,2023-11-19 10:06:00.721442,Office Supplies,Envelopes,South,Bangalore,Corporate,588.58,3,0.0,1765.74,344.39,November,11
+ORD-1443,2023-11-20 03:36:25.971943,Office Supplies,Paper,South,Hyderabad,Corporate,685.4,4,0.1,2467.44,562.5,November,11
+ORD-1444,2023-11-20 21:06:51.222444,Sports,Apparel,South,Kochi,Corporate,1355.65,4,0.0,5422.6,1196.71,November,11
+ORD-1445,2023-11-21 14:37:16.472945,Clothing,Shoes,West,Mumbai,Consumer,1943.97,1,0.05,1846.77,322.36,November,11
+ORD-1446,2023-11-22 08:07:41.723446,Office Supplies,Envelopes,East,Kolkata,Corporate,636.89,1,0.1,573.2,150.7,November,11
+ORD-1447,2023-11-23 01:38:06.973947,Electronics,Cameras,South,Hyderabad,Home Office,10182.34,4,0.0,40729.36,11599.54,November,11
+ORD-1448,2023-11-23 19:08:32.224448,Electronics,Laptops,West,Ahmedabad,Consumer,10593.48,2,0.0,21186.96,1778.64,November,11
+ORD-1449,2023-11-24 12:38:57.474949,Furniture,Shelves,South,Chennai,Home Office,7058.81,3,0.0,21176.43,2879.05,November,11
+ORD-1450,2023-11-25 06:09:22.725450,Office Supplies,Paper,North,Jaipur,Consumer,782.99,1,0.15,665.54,181.41,November,11
+ORD-1451,2023-11-25 23:39:47.975951,Clothing,Jackets,South,Kochi,Corporate,1385.68,2,0.0,2771.36,511.0,November,11
+ORD-1452,2023-11-26 17:10:13.226452,Sports,Balls,South,Hyderabad,Consumer,3180.12,5,0.15,13515.51,3498.77,November,11
+ORD-1453,2023-11-27 10:40:38.476953,Sports,Balls,East,Bhubaneswar,Consumer,2395.81,1,0.0,2395.81,416.1,November,11
+ORD-1454,2023-11-28 04:11:03.727454,Clothing,Shoes,West,Surat,Home Office,1038.7,2,0.2,1661.92,308.29,November,11
+ORD-1455,2023-11-28 21:41:28.977955,Furniture,Shelves,East,Patna,Home Office,3351.31,2,0.2,5362.1,658.7,November,11
+ORD-1456,2023-11-29 15:11:54.228456,Sports,Fitness,East,Kolkata,Corporate,2002.17,3,0.0,6006.51,899.31,November,11
+ORD-1457,2023-11-30 08:42:19.478957,Office Supplies,Binders,East,Guwahati,Consumer,770.94,3,0.05,2197.18,534.93,November,11
+ORD-1458,2023-12-01 02:12:44.729458,Furniture,Shelves,East,Bhubaneswar,Consumer,7246.09,5,0.0,36230.45,7135.73,December,12
+ORD-1459,2023-12-01 19:43:09.979959,Office Supplies,Binders,East,Bhubaneswar,Consumer,773.17,2,0.05,1469.02,424.64,December,12
+ORD-1460,2023-12-02 13:13:35.230460,Electronics,Phones,South,Chennai,Corporate,9765.78,2,0.0,19531.56,6058.65,December,12
+ORD-1461,2023-12-03 06:44:00.480961,Furniture,Lamps,East,Kolkata,Corporate,5641.19,3,0.0,16923.57,3828.87,December,12
+ORD-1462,2023-12-04 00:14:25.731462,Sports,Equipment,East,Guwahati,Corporate,1553.89,1,0.0,1553.89,442.44,December,12
+ORD-1463,2023-12-04 17:44:50.981963,Furniture,Chairs,West,Surat,Corporate,4969.16,1,0.0,4969.16,809.3,December,12
+ORD-1464,2023-12-05 11:15:16.232464,Furniture,Shelves,North,Delhi,Corporate,5604.12,4,0.0,22416.48,4304.91,December,12
+ORD-1465,2023-12-06 04:45:41.482965,Furniture,Chairs,South,Kochi,Home Office,3531.6,3,0.05,10065.06,2742.23,December,12
+ORD-1466,2023-12-06 22:16:06.733466,Furniture,Shelves,South,Bangalore,Consumer,4323.67,4,0.2,13835.74,2549.61,December,12
+ORD-1467,2023-12-07 15:46:31.983967,Office Supplies,Binders,South,Bangalore,Consumer,658.94,3,0.0,1976.82,472.26,December,12
+ORD-1468,2023-12-08 09:16:57.234468,Electronics,Phones,East,Kolkata,Consumer,11862.37,5,0.05,56346.26,7327.87,December,12
+ORD-1469,2023-12-09 02:47:22.484969,Clothing,Jackets,East,Bhubaneswar,Consumer,2697.03,2,0.0,5394.06,1305.03,December,12
+ORD-1470,2023-12-09 20:17:47.735470,Furniture,Shelves,East,Guwahati,Consumer,8598.68,5,0.1,38694.06,12096.1,December,12
+ORD-1471,2023-12-10 13:48:12.985971,Sports,Fitness,West,Mumbai,Consumer,2742.16,3,0.15,6992.51,2199.37,December,12
+ORD-1472,2023-12-11 07:18:38.236472,Furniture,Tables,North,Jaipur,Consumer,5527.49,2,0.15,9396.73,2589.48,December,12
+ORD-1473,2023-12-12 00:49:03.486973,Sports,Apparel,East,Bhubaneswar,Consumer,2726.83,1,0.2,2181.46,613.76,December,12
+ORD-1474,2023-12-12 18:19:28.737474,Office Supplies,Envelopes,North,Delhi,Home Office,771.39,1,0.0,771.39,177.91,December,12
+ORD-1475,2023-12-13 11:49:53.987975,Sports,Fitness,West,Ahmedabad,Consumer,1484.01,4,0.1,5342.44,1270.75,December,12
+ORD-1476,2023-12-14 05:20:19.238476,Clothing,Trousers,South,Chennai,Home Office,1637.83,3,0.1,4422.14,513.35,December,12
+ORD-1477,2023-12-14 22:50:44.488977,Electronics,Cameras,East,Patna,Corporate,12862.1,3,0.0,38586.3,7711.16,December,12
+ORD-1478,2023-12-15 16:21:09.739478,Sports,Fitness,North,Jaipur,Consumer,2121.2,1,0.2,1696.96,342.29,December,12
+ORD-1479,2023-12-16 09:51:34.989979,Sports,Equipment,North,Jaipur,Corporate,2572.49,5,0.0,12862.45,4357.73,December,12
+ORD-1480,2023-12-17 03:22:00.240480,Electronics,Accessories,East,Bhubaneswar,Corporate,10442.59,2,0.05,19840.92,3896.63,December,12
+ORD-1481,2023-12-17 20:52:25.490981,Clothing,Jackets,South,Kochi,Corporate,1232.06,5,0.0,6160.3,1406.54,December,12
+ORD-1482,2023-12-18 14:22:50.741482,Furniture,Lamps,South,Hyderabad,Home Office,5173.41,5,0.0,25867.05,5793.65,December,12
+ORD-1483,2023-12-19 07:53:15.991983,Sports,Fitness,South,Bangalore,Corporate,2002.83,1,0.1,1802.55,454.11,December,12
+ORD-1484,2023-12-20 01:23:41.242484,Electronics,Phones,West,Mumbai,Corporate,5051.49,1,0.05,4798.92,1353.41,December,12
+ORD-1485,2023-12-20 18:54:06.492985,Office Supplies,Pens,North,Delhi,Corporate,314.52,1,0.0,314.52,44.27,December,12
+ORD-1486,2023-12-21 12:24:31.743486,Electronics,Phones,North,Chandigarh,Consumer,12784.29,4,0.0,51137.16,11391.09,December,12
+ORD-1487,2023-12-22 05:54:56.993987,Office Supplies,Pens,North,Jaipur,Consumer,463.84,5,0.1,2087.28,632.44,December,12
+ORD-1488,2023-12-22 23:25:22.244488,Clothing,Shoes,West,Ahmedabad,Home Office,1832.54,3,0.0,5497.62,1127.24,December,12
+ORD-1489,2023-12-23 16:55:47.494989,Furniture,Shelves,North,Jaipur,Home Office,4792.35,2,0.0,9584.7,1487.39,December,12
+ORD-1490,2023-12-24 10:26:12.745490,Electronics,Cameras,West,Surat,Consumer,13830.52,4,0.15,47023.77,12074.36,December,12
+ORD-1491,2023-12-25 03:56:37.995991,Sports,Equipment,South,Kochi,Home Office,1822.31,3,0.1,4920.24,1487.97,December,12
+ORD-1492,2023-12-25 21:27:03.246492,Clothing,Shoes,East,Kolkata,Consumer,1673.38,5,0.0,8366.9,811.99,December,12
+ORD-1493,2023-12-26 14:57:28.496993,Electronics,Laptops,North,Lucknow,Corporate,13178.21,1,0.1,11860.39,3436.35,December,12
+ORD-1494,2023-12-27 08:27:53.747494,Sports,Apparel,North,Lucknow,Corporate,3220.64,5,0.1,14492.88,4374.6,December,12
+ORD-1495,2023-12-28 01:58:18.997995,Electronics,Phones,South,Kochi,Home Office,6586.57,2,0.15,11197.17,2291.07,December,12
+ORD-1496,2023-12-28 19:28:44.248496,Office Supplies,Binders,East,Kolkata,Consumer,781.59,4,0.05,2970.04,1026.13,December,12
+ORD-1497,2023-12-29 12:59:09.498997,Electronics,Phones,West,Mumbai,Consumer,9198.59,4,0.0,36794.36,10759.08,December,12
+ORD-1498,2023-12-30 06:29:34.749499,Electronics,Accessories,East,Patna,Home Office,9436.5,2,0.0,18873.0,5452.2,December,12
+ORD-1499,2023-12-31 00:00:00.000000,Electronics,Cameras,South,Bangalore,Consumer,6081.41,3,0.0,18244.23,5143.35,December,12
